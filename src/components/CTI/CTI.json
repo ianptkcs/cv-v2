@@ -26,6 +26,16 @@
 		}
 	},
 	{
+		"titulo": "FULL STACK JAVASCRIPT: CREATE A PROJECT WITH REACT AND NODE.JS",
+		"instituicao": "Alura",
+		"data": "2024",
+		"skills": ["React", "Node.js", "JavaScript", "Express"],
+		"certificado": {
+			"url": "https://cursos.alura.com.br/degree/certificate/3f779039-1bcf-4ee3-908b-3de8ebe58ec1?lang=pt_BR",
+			"nome": "Certificate"
+		}
+	},
+	{
 		"titulo": "IMPROVE YOUR DEVELOPMENT EXPERIENCE WITH TYPESCRIPT",
 		"instituicao": "Alura",
 		"data": "2024",
