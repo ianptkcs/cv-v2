@@ -44,7 +44,7 @@ function ItemExtraExp({ extraexp }: ExperienciaProps) {
 function ExtraExp() {
 	return (
 		<div>
-			<h2 className={styles.h2}>Extracurricular Experience</h2>
+			<h2 className='uppercase text-lg'>Extracurricular Experience</h2>
 			<ul className={styles.ul}>
 				{ExtraExpInfo.map(
 					(extraexp: ExtraExpInterface, index: number) => {

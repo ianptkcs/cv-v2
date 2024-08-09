@@ -1,5 +1,4 @@
 {
-	"h2": "uppercase text-lg",
 	"ul": "flex flex-col gap-5",
 	"item-ul": "flex flex-col pl-7 list-disc",
 	"item-a": "italic",

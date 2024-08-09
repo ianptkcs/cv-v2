@@ -12,7 +12,7 @@ function ItemProjetos({ projetos: projeto }: ProjetosProps) {
 	return (
 		<div className={styles['item-just-div']}>
 			<div className={styles['item-span']}>
-				<h3 className='font-bold italic'>{projeto.titulo}</h3>
+				<h3 className='font-bold text-left italic'>{projeto.titulo}</h3>
 				<span>|</span>
 				<h3>{projeto.data}</h3>
 			</div>
@@ -26,7 +26,7 @@ function ItemProjetos({ projetos: projeto }: ProjetosProps) {
 function Projetos() {
 	return (
 		<div>
-			<h2 className={styles.h2}>projetos</h2>
+			<h2 className='uppercase text-lg'>projetos</h2>
 			<ul className={styles.ul}>
 				{ProjetosInfo.map(
 					(projeto: ProjetosInterface, index: number) => {
