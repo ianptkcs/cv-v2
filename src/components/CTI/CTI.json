@@ -1,0 +1,83 @@
+[
+	{
+		"titulo": "CS50'S INTRODUCTION TO PROGRAMMING WITH PYTHON",
+		"instituicao": "Harvard University",
+		"data": "2023",
+		"skills": ["Python", "Problem Solving", "English"],
+		"certificado": {
+			"url": "https://certificates.cs50.io/a814bf8d-a03d-4f12-bd97-0080e882c6cf.pdf?size=letter",
+			"nome": "Certificate"
+		}
+	},
+	{
+		"titulo": "INTRODUCTION TO PROGRAMMING",
+		"instituicao": "ITA",
+		"data": "2024",
+		"skills": ["C", "Problem Solving;"]
+	},
+	{
+		"titulo": "REACT: DEVELOP WEB APPLICATIONS USING JSX AND HOOKS",
+		"instituicao": "Alura",
+		"data": "2024",
+		"skills": ["React", "JavaScript", "CSS"],
+		"certificado": {
+			"url": "https://cursos.alura.com.br/degree/certificate/d3fa7213-636b-4ed9-98ee-9373124cfb6f?lang=pt_BR",
+			"nome": "Certificate"
+		}
+	},
+	{
+		"titulo": "IMPROVE YOUR DEVELOPMENT EXPERIENCE WITH TYPESCRIPT",
+		"instituicao": "Alura",
+		"data": "2024",
+		"skills": ["JavaScript", "TypeScript"],
+		"certificado": {
+			"url": "https://cursos.alura.com.br/degree/certificate/932c694e-b2f3-4eaa-9df3-af985ce0ed06?lang=pt_BR",
+			"nome": "Certificate"
+		}
+	},
+	{
+		"titulo": "STARTING FROM SCRATCH: BEGINNER IN PROGRAMMING",
+		"instituicao": "Alura",
+		"data": "2024",
+		"skills": [
+			"JavaScript",
+			"Problem Solving",
+			"Git & GitHub",
+			"Programming Logic;"
+		],
+		"certificado": {
+			"url": "https://cursos.alura.com.br/degree/certificate/1e644093-7a7a-4da1-8290-a6eee8beee24?lang=pt_BR",
+			"nome": "Certificate"
+		}
+	},
+	{
+		"titulo": "ARTIFICIAL INTELLIGENCE IMMERSION",
+		"instituicao": "Alura",
+		"data": "2024",
+		"skills": ["Python", "Google Gemini API", "Machine Learning"],
+		"certificado": {
+			"url": "../../docs/imersão-ia.pdf",
+			"nome": "Certificate (download)"
+		}
+	},
+	{
+		"titulo": "SIMPLIFICA EXCEL EXPRESS",
+		"instituicao": "Simplifica Treinamentos",
+		"data": "2024",
+		"skills": ["Excel", "Dashboard", "Data Analysis"],
+		"certificado": {
+			"url": "../../docs/simplifica-excel-express.pdf",
+			"nome": "Certificate (download)"
+		}
+	},
+	{
+		"titulo": "OTHER COURSES FROM ALURA",
+		"instituicao": "Alura",
+		"data": "2024",
+		"skills": ["C", "C++", "JavaScript", "PostgreSQL", "SQL"],
+		"certificado": {
+			"url": "https://cursos.alura.com.br/user/ianptkcs/fullCertificate/1045d336cd07a99c9b48634105c74835",
+			"nome": "Certificate"
+		}
+	}
+]
