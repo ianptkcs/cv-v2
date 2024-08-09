@@ -13,7 +13,7 @@
 		"titulo": "INTRODUCTION TO PROGRAMMING",
 		"instituicao": "ITA",
 		"data": "2024",
-		"skills": ["C", "Problem Solving;"]
+		"skills": ["C", "Problem Solving"]
 	},
 	{
 		"titulo": "REACT: DEVELOP WEB APPLICATIONS USING JSX AND HOOKS",
@@ -53,7 +53,7 @@
 			"JavaScript",
 			"Problem Solving",
 			"Git & GitHub",
-			"Programming Logic;"
+			"Programming Logic"
 		],
 		"certificado": {
 			"url": "https://cursos.alura.com.br/degree/certificate/1e644093-7a7a-4da1-8290-a6eee8beee24?lang=pt_BR",
