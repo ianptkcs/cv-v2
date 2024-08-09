@@ -2,7 +2,6 @@ import ExtraExpJSON from '../ExtraExp/ExtraExp.json';
 import ExtraExpInterface from '../../interfaces/ExtraExp';
 import CTIJSON from '../CTI/CTI.json';
 import CTIInterface from '../../interfaces/CTI';
-import styles from '../../styles.json';
 let skills: string[] = [];
 
 const CTIInfo: CTIInterface[] = CTIJSON;
