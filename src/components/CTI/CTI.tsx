@@ -53,7 +53,9 @@ function ItemCTI({ cti }: CTIProps) {
 function CTI() {
 	return (
 		<div>
-			<h2 className={styles.h2}>Courses, Training & Immersions</h2>
+			<h2 className='uppercase text-lg'>
+				Courses, Training & Immersions
+			</h2>
 			<ul className={styles.ul}>
 				{CTIInfo.map((cti: CTIInterface, index: number) => {
 					return (

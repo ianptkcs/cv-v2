@@ -27,7 +27,7 @@ function ItemEducation({ education }: educationProps) {
 function Education() {
 	return (
 		<div>
-			<h2 className={styles.h2}>Education</h2>
+			<h2 className='uppercase text-lg'>Education</h2>
 			<ul className={styles.ul}>
 				{EducationInfo.map(
 					(education: EducationInterface, index: number) => {
