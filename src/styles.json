@@ -1,0 +1,8 @@
+{
+	"h2": "uppercase text-lg",
+	"ul": "flex flex-col gap-5",
+	"item-ul": "flex flex-col pl-7 list-disc",
+	"item-a": "italic",
+	"item-span": "flex gap-x-2 text-right",
+	"item-just-div": "flex justify-between gap-x-10"
+}

@@ -1,0 +1,20 @@
+{
+	"nome": {
+		"primeiro": "Ian",
+		"ultimo": "Soares"
+	},
+	"contatos": {
+		"email": "ianptkcs@gmail.com",
+		"telefone": "+55 (31) 99849-0641",
+		"links": [
+			{
+				"url": "https://www.linkedin.com/in/ianptkcs/",
+				"nome": "LinkedIn/ianptkcs"
+			},
+			{
+				"url": "https://github.com/ianptkcs",
+				"nome": "GitHub/ianptkcs"
+			}
+		]
+	}
+}
