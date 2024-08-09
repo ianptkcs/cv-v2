@@ -13,7 +13,7 @@
 		"titulo": "INTRODUCTION TO PROGRAMMING",
 		"instituicao": "ITA",
 		"data": "2024",
-		"skills": ["C", "Problem Solving;"]
+		"skills": ["C", "Problem Solving"]
 	},
 	{
 		"titulo": "REACT: DEVELOP WEB APPLICATIONS USING JSX AND HOOKS",
@@ -22,6 +22,16 @@
 		"skills": ["React", "JavaScript", "CSS"],
 		"certificado": {
 			"url": "https://cursos.alura.com.br/degree/certificate/d3fa7213-636b-4ed9-98ee-9373124cfb6f?lang=pt_BR",
+			"nome": "Certificate"
+		}
+	},
+	{
+		"titulo": "FULL STACK JAVASCRIPT: CREATE A PROJECT WITH REACT AND NODE.JS",
+		"instituicao": "Alura",
+		"data": "2024",
+		"skills": ["React", "Node.js", "JavaScript", "Express"],
+		"certificado": {
+			"url": "https://cursos.alura.com.br/degree/certificate/3f779039-1bcf-4ee3-908b-3de8ebe58ec1?lang=pt_BR",
 			"nome": "Certificate"
 		}
 	},
@@ -43,7 +53,7 @@
 			"JavaScript",
 			"Problem Solving",
 			"Git & GitHub",
-			"Programming Logic;"
+			"Programming Logic"
 		],
 		"certificado": {
 			"url": "https://cursos.alura.com.br/degree/certificate/1e644093-7a7a-4da1-8290-a6eee8beee24?lang=pt_BR",
